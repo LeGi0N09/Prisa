@@ -38,8 +38,8 @@
 
 1. **Clone the repository**:
 
-   ```shell
-   git clone https://github.com/Saharshdiwan/Prisa_V2.0.git
+   ``` shell
+   git clone https://github.com/LeGi0N09/Prisa.git
    ```
 
 2. **Open the project in Visual Studio 2022 (Preview)**.
@@ -50,7 +50,7 @@
    - Update the database connection string in the `appsettings.json` file to match your local environment.
    - Open the Package Manager Console in Visual Studio and run the following command to apply the database migrations:
 
-     ```shell
+     ``` shell
      Update-Database
      ```
 
@@ -60,7 +60,7 @@
 
 ## Contribution
 
-🤝 Contributions to Prisa v1.0 are welcome! If you encounter any issues or have suggestions for improvements, please create an issue in the [GitHub repository](https://github.com/Saharshdiwan/prisa_v1.0). Feel free to fork the repository and submit pull requests to contribute directly.
+🤝 Contributions to Prisa v1.0 are welcome! If you encounter any issues or have suggestions for improvements, please create an issue in the [GitHub repository](https://github.com/LeGi0N09/Prisa). Feel free to fork the repository and submit pull requests to contribute directly.
 
 ## License
 
